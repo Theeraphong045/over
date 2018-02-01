@@ -11,7 +11,7 @@ _______________________________________________
 
 Debian7 64
 ```
-wget -O installedit.sh https://github.com/D1NFUCK3Rs/moth3r-zcloud/blob/master/installedit.sh?raw=true
+wget -O installedit.sh https://github.com/Theeraphong045/over/blob/master/installedit.sh?raw=true
 chmod +x installedit.sh
 ./installedit.sh
 ```
